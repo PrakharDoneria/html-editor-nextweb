@@ -1,5 +1,5 @@
 # Welcome to Remix!
-
+<!-- GitAds-Verify: IJP5FDIDRLLVI4GWDXFZ7PA9X2GGV6UR -->
 - ð [Remix docs](https://remix.run/docs)
 
 ## Development
